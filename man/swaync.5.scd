@@ -105,6 +105,11 @@ config file to be able to detect config errors
 	default: 500 ++
 	description: Width of the notification in pixels
 
+*notification-window-height* ++
+	type: integer ++
+	default: 800 ++
+	description: Height of the notification in pixels
+
 *keyboard-shortcuts* ++
 	type: bool ++
 	default: true ++

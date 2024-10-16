@@ -133,6 +133,11 @@
       "description": "Width of the notification in pixels",
       "default": 500
     },
+    "notification-window-height": {
+      "type": "integer",
+      "description": "Height of the notification in pixels",
+      "default": 800
+    },
     "fit-to-screen": {
       "type": "boolean",
       "description": "If the control center should expand to both edges of the screen",
